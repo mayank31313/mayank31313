@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @mayank31313
-- 👀 I’m interested in robotics, devops, iot and machine learning
-- 🌱 I’m currently learning devops
-- 💞️ I’m looking to collaborate on IOT, robotics, AI/ML, OpenSource
-- 📫 To to reach me, you can mail at jacob547black@gmail.com
+👋 Hello, fellow developers! Welcome to my GitHub profile!
 
-I am Java and Python Developer in year 2018 I started to work on a problem of iot and real time control so I developed a solution that is capable of controlling autonomous robots/devices later renamed it as Control Net https://mayank31313.github.io to control multirotors over Internet. The Control Net Stack has an ecosystem of multiple applications/connectos/services/frameworks. Check out the Control Net Home page [here](https://mayank31313.github.io)
+I'm Mayank, a passionate software engineer with expertise in Python, Java, Terraform, Ansible, and AWS. With a solid foundation in software development and cloud technologies, I strive to build scalable and efficient solutions that solve real-world problems.
 
-<!---
-mayank31313/mayank31313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Languages and Technologies:
+
+🐍 Python: I specialize in Python development, leveraging its versatility and readability to build robust backend services, automation scripts, and data processing pipelines. Check out my repositories for examples of my Python projects, including web applications, machine learning models, and API integrations.
+
+☕ Java: I have extensive experience in Java programming, particularly in enterprise-level applications and backend development. Explore my Java repositories to see how I implement best practices, design patterns, and object-oriented principles to create reliable and maintainable software solutions.
+
+☁️ Terraform & Ansible: As a DevOps enthusiast, I'm proficient in infrastructure as code (IaC) tools like Terraform and Ansible. You'll find repositories demonstrating my skills in automating infrastructure deployment, managing cloud resources, and maintaining consistent environments across development, staging, and production.
+
+🚀 AWS: I'm well-versed in Amazon Web Services (AWS) and its suite of cloud services. From EC2 instances and S3 buckets to Lambda functions and DynamoDB databases, I leverage AWS to design scalable and resilient architectures. Explore my AWS-related repositories to see how I implement cloud-native solutions and optimize performance, cost, and security.
+
+Connect:
+
+Let's connect and collaborate on exciting projects! Follow me on GitHub and LinkedIn to stay updated on my latest work and insights in software development, cloud computing, and technology trends.
